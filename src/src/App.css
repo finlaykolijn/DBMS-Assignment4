@@ -1,0 +1,82 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f7f7f7; /* Light gray background */
+}
+
+h1 {
+  text-align: center;
+  color: #333; /* Dark gray text color */
+}
+
+button {
+  padding: 10px 16px;
+  border: none;
+  background-color: #3498db; /* Blue button color */
+  color: white;
+  cursor: pointer;
+  border-radius: 4px; /* Rounded corners */
+}
+
+button:hover {
+  background-color: #2980b9; /* Darker blue on hover */
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc; /* Light gray border */
+  border-radius: 4px; /* Rounded corners */
+  box-sizing: border-box;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #333; /* Dark gray text color */
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555; /* Medium gray text color */
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+}
+
+#heroDetail,
+#heroDetails,
+#heroListDetails {
+  margin-top: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+#message {
+  margin-top: 20px;
+  background-color: #ecf0f1; /* Light blue background */
+  padding: 12px;
+  border: 1px solid #bdc3c7; /* Light gray border */
+  color: #333; /* Dark gray text color */
+}
+
+form {
+  margin-bottom: 10px;
+}

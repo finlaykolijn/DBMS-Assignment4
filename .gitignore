@@ -1,0 +1,3 @@
+# Ignore backend.js in the specified path
+src/src/backend.js
+src/node_modules
